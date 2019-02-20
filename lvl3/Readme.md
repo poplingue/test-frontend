@@ -8,5 +8,3 @@ We want to see if the server is not too full, so we want to display the total nu
 * Display the information on the webpage nicely
 
 ### Bonus : Use Styled Component
-
-When you are done -> [Next Level](https://github.com/honestica/frontend-jobs/tree/master/lvl4)

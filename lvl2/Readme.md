@@ -11,4 +11,4 @@ You can use this server for this webapp (it is completely open)
 
 Example to upload a document with `fetch`: `fetch('https://fhirtest.uhn.ca/baseDstu3/Binary', { method: 'POST', body: myFile })`
 
-When you are done -> [Next Level](https://github.com/honestica/frontend-jobs/tree/master/lvl3)
+When you are done -> [Next Level](https://github.com/SBLogX/frontend-evaluation/tree/master/lvl3)
