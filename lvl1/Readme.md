@@ -6,14 +6,14 @@ This company already has a base API for many apps, built with the FHIR standard 
 
 The final goal of this challenge is to build a small webapp connected to this backend, that will upload a document and give some reporting to the user.
 
-There are 5 levels:
+There are 3 levels:
 * Lvl 1: build a dropzone
 * Lvl 2: send the file to a fake API
 * Lvl 3: add some reporting information for the user
 
 ### General guidelines 
 
-* You need to use React and Redux (Saga or Rematch), if you can use Next Framework for SSR.
+* You need to use React and Redux (Saga or Rematch), if you can, use Next Framework for SSR.
 * The app should look ok. It should be usable (have a decent UX and UI).
 * This app should be purely front-end - no backend !
 * We should be able to launch the app easily ("npm run dev" is ok)
