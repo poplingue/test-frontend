@@ -3,8 +3,6 @@ import React from 'react';
 import { connect } from 'react-redux';
 import styled from 'styled-components';
 
-import { login } from 'actions/index';
-
 import { Container, utils } from 'styled-minimal';
 import Background from 'components/Background';
 import DropZone from 'components/DropZone';
